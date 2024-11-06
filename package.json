@@ -1,0 +1,37 @@
+{
+  "name": "chat-ui",
+  "version": "0.0.1",
+  "description": "A Quasar Project",
+  "productName": "Quasar App",
+  "author": "Zachary Erskine <bboplifa@gmail.com>",
+  "private": true,
+  "scripts": {
+    "deploy": "push-dir --dir=dist/spa --remote=origin --branch=main",
+    "test": "echo \"No test specified\" && exit 0",
+    "dev": "quasar dev",
+    "build": "quasar build"
+  },
+  "dependencies": {
+    "@netlify/functions": "^2.8.2",
+    "@quasar/extras": "^1.16.4",
+    "@supabase/supabase-js": "^2.46.1",
+    "argon2": "^0.41.1",
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.16",
+    "quasar": "^2.16.0",
+    "tweetnacl": "^1.0.3",
+    "vue": "^3.4.18",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^1.9.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.14",
+    "push-dir": "^0.4.1"
+  },
+  "engines": {
+    "node": "^20 || ^18 || ^16",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
