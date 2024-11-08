@@ -8,7 +8,7 @@
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "https://github.com/cpttripzz/chat-wrangler/releases/download/0.1.0/Chat.UI_0.1.0_x64-setup.exe.sig",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRODBucWNvM2hsZXBUbVIzbVhaaEdZcy9GR3RSaDAzeVJYSjVFd3NJek9WUVpmdWEvZ1FQclFhYlpoa1B6ZWl6V1k3OWgyRzdTM1M0aVZZN3psQXRCV3FWcUJUcTgwWGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxMDUyOTExCWZpbGU6Q2hhdCBVSV8wLjEuMF94NjQtc2V0dXAuZXhlClhTdHp2WmN4RWJZVW1HQ3ZDcTdPclJJYTZjS0J3NTZlSkoxaFZybDJ0cjVtN3JyQXhPOXJjTnpCcG54MDZNVVowQVpVajk2c2c2NFFkVnhUbXFhaUJ3PT0K",
       "url": "https://github.com/cpttripzz/chat-wrangler/releases/download/0.1.0/Chat.UI_0.1.0_x64-setup.exe"
     },
     "darwin-x86_64": {
