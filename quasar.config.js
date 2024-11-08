@@ -46,7 +46,7 @@ module.exports = configure(function (/* ctx */) {
 
     // Full list of options: https://v2.quasar.dev/quasar-cli-vite/quasar-config-js#build
     build: {
-      publicPath: 'cpttripzz.github.io/chat-wrangler/',
+      // publicPath: 'cpttripzz.github.io/chat-wrangler/',
       target: {
         browser: [ 'es2019', 'edge88', 'firefox78', 'chrome87', 'safari13.1' ],
         node: 'node20'
