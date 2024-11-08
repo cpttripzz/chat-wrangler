@@ -6,7 +6,7 @@
   "author": "Zachary Erskine <bboplifa@gmail.com>",
   "private": true,
   "scripts": {
-    "deploy": "push-dir --dir=dist/spa --remote=origin --branch=main",
+    "deploy": "push-dir --dir=dist/spa --remote=origin --branch=github-pages",
     "test": "echo \"No test specified\" && exit 0",
     "dev": "quasar dev",
     "build": "quasar build"
