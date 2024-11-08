@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "notes": "",
+  "pub_date": "",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "https://github.com/cpttripzz/chat-wrangler/releases/download/0.1.0/Chat.UI_0.1.0_x64-setup.exe.sig",
+      "url": "https://github.com/cpttripzz/chat-wrangler/releases/download/0.1.0/Chat.UI_0.1.0_x64-setup.exe"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
