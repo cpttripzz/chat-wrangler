@@ -1,5 +1,5 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.3",
     "notes": "",
     "pub_date": "",
     "platforms": {
@@ -8,8 +8,8 @@
             "url": ""
         },
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRODBucWNvM2hsZW5QVFN4Rmx3cWdpQXNKSW5GL3Q4Q0ZOK2k5R1Z4cXV4SUNKaGg5eHh5cys1SUU4RWdyVEwrU0piS1JlaE5tMlhDVm9uUXBkcEdqcElKTkdPU2FZWmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxOTQ2NDE1CWZpbGU6Q2hhdCBVSV8wLjEuMF94NjQtc2V0dXAuZXhlCjFTN3VaUStLZXVwUEpwdDlqb0RLWmRCakVzWmZOTlcreGRIa3VBOGxOZzJETXJobG1CUE03dUpPZ283YWJtTitqQmNxNDRsTXNZNm1WWW5aN3BTekJBPT0K",
-            "url": "https://github.com/cpttripzz/chat-wrangler/releases/download/0.1.1/Chat.UI_0.1.1_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRODBucWNvM2hsZW4zOG5mSVU2ZWVtc2JhR2lpaWlUVks0V0NSRlFYM2YxOW1lRmJENGhMQ0NqNXBjbUlXejJWU0hEaWpjWUI0aVM1aWQrSmx5dmxVNWFjRkZmbTdoWVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMDM1OTc4CWZpbGU6Q2hhdCBVSV8wLjEuMF94NjQtc2V0dXAuZXhlCkpiYnZxeG4rdm9OZnVLMGZuc2lZRkFBc1FwbEtUZG1peXNJTnVra2lIV0E3c1E5Y25wbjV1WExVc2dSNlN1TStkdms0MzJMdkl1U1dGSGFRMjBob0JBPT0K",
+            "url": "https://github.com/cpttripzz/chat-wrangler/releases/download/0.1.3/Chat.UI_0.1.3_x64-setup.exe"
         },
         "darwin-x86_64": {
             "signature": "",
