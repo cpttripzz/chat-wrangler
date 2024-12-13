@@ -1,0 +1,11 @@
+{
+    "version": "0.1.17",
+    "notes": "",
+    "pub_date": "2024-12-13T18:25:26.709632+00:00",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRODBucWNvM2hsZW1HODJKYkVpWXJGWjl6Y2pYSTBXYTFuaWxzUmZPM1FIUU81ZzA3MlFCMVZTZW9BU0VWYWl5eGRsblF4N1FXMU9rK2VSa1BXUGdmKytYQ3A3UFcrdHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MTE0MjkzCWZpbGU6Q2hhdCBXcmFuZ2xlcl8wLjEuMTdfeDY0LXNldHVwLmV4ZQpDMlRmOWt5NmtZbDZ4ZEtuUG1EWXUra09sUU9tVmFmbU1jMk90WitzMXhwWW5ocmlzQitqSUNDZnRtSjFpVXBOSHpES3NhQ3owUGlCMEp1TlNRVENDQT09Cg==",
+            "url": "https://github.com/cpttripzz/chat-wrangler/releases/download/0.1.17/Chat.Wrangler_0.1.17_x64-setup.exe"
+        }
+    }
+}
