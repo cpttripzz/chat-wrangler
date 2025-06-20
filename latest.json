@@ -1,0 +1,11 @@
+{
+    "version": "0.1.38",
+    "notes": "",
+    "pub_date": "2025-06-20T16:20:19.624552+00:00",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRODBucWNvM2hsZXIvcmlzMjRNWFlWZ20zRE5SN1QwUy90eE9UL3EvZ3JlKzgrdG5hbGxpcXdKa3JDckFMREdHb0J6cVFja0RiQ1RXeW5NSEx6SnR4aDlsK3hBVlZETUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwNDM2NDA3CWZpbGU6Q2hhdCBXcmFuZ2xlcl8wLjEuMzhfeDY0LXNldHVwLmV4ZQpVSlZ4MzR6d1cwdXhBOFlmQlVYdFdIdFZwSWlURzdiSE1GbGJidkpDUlJNTkt5ZFl6ekZIZTd3eGl6L0Mxc0Y3dVQvTzE2SUVtZDN1aVJlTlJhcm5BZz09Cg==",
+            "url": "https://github.com/cpttripzz/chat-wrangler/releases/download/0.1.38/Chat.Wrangler_0.1.38_x64-setup.exe"
+        }
+    }
+}
